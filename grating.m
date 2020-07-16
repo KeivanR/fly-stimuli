@@ -1,0 +1,2 @@
+function [] = grating(white,black
+)
